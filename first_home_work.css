@@ -1,0 +1,61 @@
+
+header{
+    padding: 20px;
+    background: #ebebeb;
+    margin-bottom: 20px;
+}
+#first{ 
+    padding: 20px;
+    background: #ebebeb;
+    margin-bottom: 20px;
+}
+#second {
+    background: #ebebeb;
+    padding: 35px;
+    width:45%;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 20px
+    
+}
+#third{
+    padding: 30px;
+    width: 90%;
+    background: #777;
+    color: #ebebeb;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    
+}
+#forth{
+    padding: 15px;
+    background: #ebebeb;
+    margin-bottom: 5px;
+    color: #777;
+}
+#fifth{
+    padding: 20px;
+    background: #ebebeb;
+    margin-bottom: 10px;
+    color: #777;
+}
+#six{
+    background: #ebebeb;
+    padding: 120px;
+     width:30%;
+    float: right;
+    margin-left: 10px;
+    height: 125px;
+}
+    #seven{
+        padding: 10px;
+        background-color: black
+    }
+
+    
+
+    
+
+
+
+
